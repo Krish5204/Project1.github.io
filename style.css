@@ -1,0 +1,32 @@
+input,button{
+  display: block;
+  width: 100%;
+  padding: 10px 0px;
+  border: none;
+  border-radius: 3px;
+  padding-left: 5px;
+  box-shadow: 0px 0px 5px blue;
+}
+#form{
+  width:50%;
+  background-color: rgba(255, 255, 255, 0.3);
+color:black;
+  font-weight:800;
+  margin: auto;
+  padding:25px;
+  font-size:22px ;
+  border-radius: 10px;
+  box-shadow:0px 0px 5px black;
+}
+.formbox{
+  margin:8px 0px;
+}
+button{
+  background: black;
+  color:white;
+}
+body{
+  background-image: url('https://th.bing.com/th/id/R.bda8e1d52b6c643289df7f5a6fed9715?rik=Dtu8WGgYd64l7w&riu=http%3a%2f%2fpspphoto.com%2fwp-content%2fuploads%2f2016%2f01%2fbooks-BKG-cropped1.jpg&ehk=v0LWzvwoRzLvHlgqaaDmBie274UO%2bHHpXZADJbhCsdM%3d&risl=&pid=ImgRaw&r=0');
+  background-size:cover;
+  height:100vh;
+}
